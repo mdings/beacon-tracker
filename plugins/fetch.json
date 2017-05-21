@@ -1,0 +1,112 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.unarin.cordova.beacon": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/petermetz/cordova-plugin-ibeacon.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "de.appplant.cordova.plugin.local-notification": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/katzer/cordova-plugin-local-notifications",
+            "subdir": ".",
+            "ref": "ios10"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-app-event": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-app-event"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-background-mode": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-background-mode"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-geolocation"
+        },
+        "is_top_level": true,
+        "variables": {
+            "GEOLOCATION_USAGE_DESCRIPTION": "We need directions you fool"
+        }
+    },
+    "cordova-plugin-compat": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-compat"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-nativestorage": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-nativestorage"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-background-geolocation-lt": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/transistorsoft/cordova-background-geolocation-lt.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-dialogs"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-background-fetch": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-background-fetch"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-cocoalumberjack": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-cocoalumberjack"
+        },
+        "is_top_level": false,
+        "variables": {}
+    }
+}

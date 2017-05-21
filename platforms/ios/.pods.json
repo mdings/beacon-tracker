@@ -1,0 +1,10 @@
+{
+	"pods": {
+		"BugfenderSDK": {
+			"id": "BugfenderSDK"
+		}
+	},
+	"sources": {},
+	"iosMinVersion": "7.0",
+	"useFrameworks": false
+}
